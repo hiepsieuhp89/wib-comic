@@ -1,6 +1,6 @@
 
 <p align="center">
-<a href = "http://wibcomi.herokuapp.com/" >DEMO wibcomi</a>
+<a href = "http://wibcomi.herokuapp.com/" target="on_blank">DEMO wibcomi</a>
 </p>
 
 <p align="center">
